@@ -4,7 +4,7 @@ description: >
   End-of-session knowledge cleanup with OCD-level rigor — reconciles project docs
   (CLAUDE.md, README.md, docs/) and agent memory against the code so nothing rots.
   会话结束后对项目文档和记忆进行洁癖级审查与同步。MUST trigger when the user says:
-  "sync up", "tidy up docs", "update memory", "clean up docs", "/sync", "同步一下",
+  "sync up", "tidy up docs", "update memory", "clean up docs", "/sync", "/neat", "同步一下",
   "整理文档", "整理一下", "更新记忆", "梳理一下", "收尾", "这个阶段做完了",
   "新人能直接上手", or any phrase suggesting a dev milestone where knowledge needs
   reconciliation. Also trigger when the user reports stale docs, conflicting memories,
